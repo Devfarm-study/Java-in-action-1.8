@@ -19,7 +19,7 @@
 ## 자료
 - Chap1
   - 박인종 : [GoogleDocs - 자바8을 눈여겨 봐야 하는 이유](https://docs.google.com/presentation/d/e/2PACX-1vQP48or9dpAkZfoPfxU967b6tOX6I6TqScONcurQglAULIDwOFR8dHaB5BMLcFoyi-vmfr2RlDzty0o/pub?start=true&loop=false&delayms=60000)
-  - 최영진 : [GoogleDocs - 자바 8 in Action 1,2장 통합](https://docs.google.com/presentation/d/1xB6fLUiP0Lfv2V9R8DhzW-L57QJmwLl2JI7L2WvrXEg/edit?usp=sharing)
+  - 최영진 : [GoogleDocs - 자바 8 in Action 1,2장 통합](https://drive.google.com/file/d/1kvcR6zKA1H0_s8YcqCFBWjvgI9Y4JOQs/view)
 - Chap2
   - 박인종 : [GoogleDocs - 동작 파라미터화 코드 ](https://docs.google.com/presentation/d/e/2PACX-1vQBcQyAhbZ41BipETMSSw2G7SvN0ZlvadyBahDu0ZCrCL0RhEasPjEAstv-N70tJuB2Dabo4qpJS6zk/pub?start=true&loop=false&delayms=60000)
 
