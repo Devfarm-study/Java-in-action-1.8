@@ -18,8 +18,9 @@
 
 ## 자료
 - Chap1
+  - 박인종 : [GoogleDocs - 자바8을 눈여겨 봐야 하는 이유](https://docs.google.com/presentation/d/e/2PACX-1vQP48or9dpAkZfoPfxU967b6tOX6I6TqScONcurQglAULIDwOFR8dHaB5BMLcFoyi-vmfr2RlDzty0o/pub?start=true&loop=false&delayms=60000)
 - Chap2
-  
+  - 박인종 : [GoogleDocs - 동작 파라미터화 코드 ](https://docs.google.com/presentation/d/e/2PACX-1vQBcQyAhbZ41BipETMSSw2G7SvN0ZlvadyBahDu0ZCrCL0RhEasPjEAstv-N70tJuB2Dabo4qpJS6zk/pub?start=true&loop=false&delayms=60000)
 
 ## 환경 설정
 1. [slack에서 git noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
