@@ -23,6 +23,9 @@
   - 최영진 : [GoogleDocs - 자바 8 in Action 1,2장 통합](https://drive.google.com/file/d/1kvcR6zKA1H0_s8YcqCFBWjvgI9Y4JOQs/view)
 - Chap2
   - 박인종 : [GoogleDocs - 동작 파라미터화 코드 ](https://docs.google.com/presentation/d/e/2PACX-1vQBcQyAhbZ41BipETMSSw2G7SvN0ZlvadyBahDu0ZCrCL0RhEasPjEAstv-N70tJuB2Dabo4qpJS6zk/pub?start=true&loop=false&delayms=60000)
-
+- Chap3
+  - 정성진 : [람다 표현식](https://docs.google.com/presentation/d/e/2PACX-1vQedliqIQLPzmTqOYYezdZ3XMJvBvMMjsxTQDqJe0FNTITif4Z0vbZ7e3g2vjyW2DokCGx12-Yfv4tu/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- Chap4
+  - 정성진 : [스트림 소개](https://docs.google.com/presentation/d/e/2PACX-1vQUESm6r-0lQ4HAonJLBx5eguMsfnCc5DORzpid_G2QFL42k_yfOLtF_E8_u8TulhEqnDq3rIPPffIX/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ## 환경 설정
 1. [slack에서 git noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
