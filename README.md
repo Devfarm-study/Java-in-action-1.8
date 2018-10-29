@@ -25,9 +25,9 @@
   - 박인종 : [GoogleDocs - 동작 파라미터화 코드 ](https://docs.google.com/presentation/d/e/2PACX-1vQBcQyAhbZ41BipETMSSw2G7SvN0ZlvadyBahDu0ZCrCL0RhEasPjEAstv-N70tJuB2Dabo4qpJS6zk/pub?start=true&loop=false&delayms=60000)
 - Chap3
   - 정성진 : [람다 표현식](https://docs.google.com/presentation/d/e/2PACX-1vQedliqIQLPzmTqOYYezdZ3XMJvBvMMjsxTQDqJe0FNTITif4Z0vbZ7e3g2vjyW2DokCGx12-Yfv4tu/pub?start=false&loop=false&delayms=3000&slide=id.p)
-  - 김하림 : [람다 표현식](https://docs.google.com/presentation/d/1QIBeh8eqIJKw2CuCIu90nkd-s1SyEjDUfTEadVa5mco/edit?usp=sharing)
+  - 김하림 : [GoogleDocs - 람다 표현식](https://docs.google.com/presentation/d/1QIBeh8eqIJKw2CuCIu90nkd-s1SyEjDUfTEadVa5mco/edit?usp=sharing)
 - Chap4
   - 정성진 : [스트림 소개](https://docs.google.com/presentation/d/e/2PACX-1vQUESm6r-0lQ4HAonJLBx5eguMsfnCc5DORzpid_G2QFL42k_yfOLtF_E8_u8TulhEqnDq3rIPPffIX/pub?start=false&loop=false&delayms=3000&slide=id.p)
-  - 김하림 : [스트림 소개](https://docs.google.com/presentation/d/1QIBeh8eqIJKw2CuCIu90nkd-s1SyEjDUfTEadVa5mco/edit?usp=sharing)
+  - 김하림 : [GoogleDocs - 스트림 소개](https://docs.google.com/presentation/d/1QIBeh8eqIJKw2CuCIu90nkd-s1SyEjDUfTEadVa5mco/edit?usp=sharing)
 ## 환경 설정
 1. [slack에서 git noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
