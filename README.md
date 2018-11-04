@@ -30,7 +30,7 @@
   - 정성진 : [스트림 소개](https://docs.google.com/presentation/d/e/2PACX-1vQUESm6r-0lQ4HAonJLBx5eguMsfnCc5DORzpid_G2QFL42k_yfOLtF_E8_u8TulhEqnDq3rIPPffIX/pub?start=false&loop=false&delayms=3000&slide=id.p)
   - 김하림 : [GoogleDocs - 스트림 소개](https://docs.google.com/presentation/d/1QIBeh8eqIJKw2CuCIu90nkd-s1SyEjDUfTEadVa5mco/edit?usp=sharing)
 - Break Note : Lamda
-  - 최영진 : 람다(https://drive.google.com/open?id=1Xtexv4h2veoVwkowrIa9Y5uckUUaZ6U5)
+  - 최영진 : [람다](https://drive.google.com/open?id=1Xtexv4h2veoVwkowrIa9Y5uckUUaZ6U5)
   
 ## 환경 설정
 1. [slack에서 git noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
