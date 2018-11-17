@@ -35,4 +35,7 @@
   - 최영진 : [람다](https://drive.google.com/open?id=1Xtexv4h2veoVwkowrIa9Y5uckUUaZ6U5)
   
 ## 환경 설정
-1. [slack에서 git noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
+1. [Slack에서 GIT Noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
+
+## 참고 자료
+1. [Github Fork 와 Pull Request를 이용하여 Open Source에 참여하기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Github-Fork-%EC%99%80-Pull-Request%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-Open-Source%EC%97%90-%EC%B0%B8%EC%97%AC%ED%95%98%EA%B8%B0)
