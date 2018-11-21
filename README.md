@@ -36,8 +36,10 @@
 - Chap5
   - 정성진 : [flatMap 예제](https://docs.google.com/presentation/d/e/2PACX-1vTHZmQntfU6P1aIZenMqmMaymE0iW-iQzIImWNAp_RcaLRz5pEwQ-ZbSBbw69ad-owzNe1hucxYH9dD/pub?start=false&loop=false&delayms=3000)
   - 최영진 : [스트림 활용](https://drive.google.com/open?id=1wlz0iiNv-7Yn5u5L4Cnx7na3WyYYtLDO)
+  - 박인종 : [GoogleDocs - Chapter05 스트림 활용](https://docs.google.com/presentation/d/e/2PACX-1vRVqAJSHtviVLRJjLhDEGGs49KK-MaqjSKJtID0sBY7-M8aWUiwQdSF0n0q8u7HT2a3sWmjETGGrDxJ/pub?start=true&loop=false&delayms=60000)
 - Chap6
   - 최영진 : [스트림으로 데이터 수집](https://drive.google.com/open?id=16vsBPLm757oQ4XPPoBHYqCiZ8fgIwmmb)
+  - 박인종 : [GoogleDocs - Chapter06 스트림으로 데이터 수집](https://docs.google.com/presentation/d/e/2PACX-1vRnDP2qinkm98Oj4hI7PiUJd1C34c3YHUWF3sfIbvqOvfa24Ozrb8LHOyGk69mC1QuRiZFNFh9NMrSL/pub?start=true&loop=false&delayms=60000)
   
 ## 환경 설정
 1. [Slack에서 GIT Noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
