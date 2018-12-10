@@ -41,6 +41,11 @@
 - Chap6
   - 최영진 : [스트림으로 데이터 수집](https://drive.google.com/open?id=16vsBPLm757oQ4XPPoBHYqCiZ8fgIwmmb)
   - 박인종 : [GoogleDocs - Chapter06 스트림으로 데이터 수집](https://docs.google.com/presentation/d/e/2PACX-1vRnDP2qinkm98Oj4hI7PiUJd1C34c3YHUWF3sfIbvqOvfa24Ozrb8LHOyGk69mC1QuRiZFNFh9NMrSL/pub?start=true&loop=false&delayms=60000)
+- Chap7
+  - 정성진 : [병렬 데이터 처리와 성능](https://docs.google.com/presentation/d/e/2PACX-1vSccp5vRS9Ju9sKLNdZ4A-qyRTIi5h0v-FChc1tJHFUoAo9wXeYpqGYWCG39zub3IjzbqI2pYbZZR9_/pub?start=false&loop=false&delayms=3000)
+  
+- Chap8
+  - 정성진 : [리팩토링, 테스팅, 디버깅](https://docs.google.com/presentation/d/e/2PACX-1vSzTZmEX9cUwdnERIoBfb17XR-hIHgWZXnl69SdIb10-FjdLcKEIC8RyyIV_7hB90gx19z79EKWt0pg/pub?start=false&loop=false&delayms=3000)
   
 ## 환경 설정
 1. [Slack에서 GIT Noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
