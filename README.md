@@ -52,11 +52,11 @@
   
 - Chap9
   - 최영진 : [디폴트 메서드](https://drive.google.com/open?id=1dFZEJIznqAOM-E4di59lRXbILy8wigYZ)
-  - 박인종 : [GoogleDocs - Chapter09 디폴트 메서드](https://docs.google.com/presentation/d/1uDi6R0zD2SRtl5CaW9-Sep6w4t6YwsNxl3TwjqeRyik/edit?usp=sharing)
+  - 박인종 : [GoogleDocs - Chapter09 디폴트 메서드](https://docs.google.com/presentation/d/e/2PACX-1vRMNO2MtNE0zSlqcxoplyCrYqcjv8ErdRzOPEvMTNR2szrHYd19y7j67FNbQZ1Fy8W8Oh8kRoHUUzNl/pub?start=true&loop=false&delayms=60000)
   
 - Chap10
   - 최영진 : [null 대신 Optional](https://drive.google.com/open?id=1bJiTnW7QyQPOLL2wW20-d2LYvyhAXiK6)
-  - 박인종 : [GoogleDocs - Chapter10 null 대신 Optional](https://docs.google.com/presentation/d/1U-hP2njJk3NCtNykQEze0f9jgFdYOYTYzUsj6pA2Uv4/edit?usp=sharing)
+  - 박인종 : [GoogleDocs - Chapter10 null 대신 Optional](https://docs.google.com/presentation/d/e/2PACX-1vQkeVQajaVablQVAwcplfKFDlxhxieIlY-m_zpHvLxdZqLYRHfVTBsXqSdWVIcjtqqNYt6lbMgQQEju/pub?start=true&loop=false&delayms=60000)
   
 ## 환경 설정
 1. [Slack에서 GIT Noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
