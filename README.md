@@ -50,6 +50,12 @@
   - 정성진 : [리팩토링, 테스팅, 디버깅](https://docs.google.com/presentation/d/e/2PACX-1vSzTZmEX9cUwdnERIoBfb17XR-hIHgWZXnl69SdIb10-FjdLcKEIC8RyyIV_7hB90gx19z79EKWt0pg/pub?start=false&loop=false&delayms=3000)
   - 김하림 : [리팩토링, 테스팅, 디버깅](https://docs.google.com/presentation/d/1lbeJoVJWI9QxRk4k33ol9FAPq1-p3wtasMSDHw4vJfA/edit?usp=sharing)
   
+- Chap9
+  - 최영진 : [디폴트 메서드](https://drive.google.com/open?id=1dFZEJIznqAOM-E4di59lRXbILy8wigYZ)
+  
+- Chap10
+  - 최영진 : [null 대신 Optional](https://drive.google.com/open?id=1bJiTnW7QyQPOLL2wW20-d2LYvyhAXiK6)
+  
 ## 환경 설정
 1. [Slack에서 GIT Noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
 
