@@ -59,6 +59,12 @@
   - 최영진 : [null 대신 Optional](https://drive.google.com/open?id=1bJiTnW7QyQPOLL2wW20-d2LYvyhAXiK6)
   - 박인종 : [GoogleDocs - Chapter10 null 대신 Optional](https://docs.google.com/presentation/d/e/2PACX-1vQkeVQajaVablQVAwcplfKFDlxhxieIlY-m_zpHvLxdZqLYRHfVTBsXqSdWVIcjtqqNYt6lbMgQQEju/pub?start=true&loop=false&delayms=60000)
   
+- Chap11
+  - 정성진 : [CompletableFuture: 조합할 수 있는 비동기 프로그래밍](https://docs.google.com/presentation/d/e/2PACX-1vTX_evOxzJPkVV89i4WVC1gA0Y6URkSmtYrU907ThfvECRZKqaMPwiFKYiZ2S-bM77Cq6E6BVm8k5kU/pub?start=false&loop=false&delayms=3000)
+  
+- Chap12
+  - 정성진 : 
+
 ## 환경 설정
 1. [Slack에서 GIT Noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
 
