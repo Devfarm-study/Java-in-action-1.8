@@ -61,7 +61,7 @@
   
 - Chap11
   - 정성진 : [CompletableFuture: 조합할 수 있는 비동기 프로그래밍](https://docs.google.com/presentation/d/e/2PACX-1vTX_evOxzJPkVV89i4WVC1gA0Y6URkSmtYrU907ThfvECRZKqaMPwiFKYiZ2S-bM77Cq6E6BVm8k5kU/pub?start=false&loop=false&delayms=3000)
-  - 김하림 : [CompletableFuture: 조합할 수 있는 비동기 프로그래밍]     (https://docs.google.com/presentation/d/1DiRWp0OXxfQPAYxH4gDczj05KvHcaFXE_XkgeNiPSRk/edit?usp=sharing)
+  - 김하림 : [CompletableFuture: 조합할 수 있는 비동기 프로그래밍](https://docs.google.com/presentation/d/e/2PACX-1vTX_evOxzJPkVV89i4WVC1gA0Y6URkSmtYrU907ThfvECRZKqaMPwiFKYiZ2S-bM77Cq6E6BVm8k5kU/pub?start=false&loop=false&delayms=3000)
   
 - Chap12
   - 정성진 : [새로운 날짜와 시간 API](https://docs.google.com/presentation/d/e/2PACX-1vQAH3i7_eGjzAPN7cXmZzSvB07dQ1UQ7h5z4U-VL0NqD4ff3uyTMpg0-1490Vdr9lhXJYX2GVgg-2eK/pub?start=false&loop=false&delayms=3000)
