@@ -68,6 +68,12 @@
 - Chap12
   - 정성진 : [새로운 날짜와 시간 API](https://docs.google.com/presentation/d/e/2PACX-1vQAH3i7_eGjzAPN7cXmZzSvB07dQ1UQ7h5z4U-VL0NqD4ff3uyTMpg0-1490Vdr9lhXJYX2GVgg-2eK/pub?start=false&loop=false&delayms=3000)
   - 김하림 : [새로운 날짜와 시간 API](https://docs.google.com/presentation/d/1jcAjS71azoiwUpBLSLzWzr-X59eYWBPVVfMML8NyYUk/edit?usp=sharing)
+  
+- Chap13
+  - 최영진 : [함수형 관점으로 생각하기](https://drive.google.com/open?id=1ToWgVe7KLT_MzBhJ1erwTzh1xpBEHvfs)
+
+- Chap14
+  - 최영진 : [함수형 프로그래밍 기법](https://drive.google.com/open?id=1ZOuvodPkDf7j4VkvAdiCe83zLFAH6TA0)
 
 ## 환경 설정
 1. [Slack에서 GIT Noti 받기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Slack%EA%B3%BC-Github-%EC%97%B0%EB%8F%99)
