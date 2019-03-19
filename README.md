@@ -11,6 +11,8 @@
 - 5차: 2018.12.11
 - 6차: 2018.12.27
 - 7차: 2019.01.15
+- 8차: 2019.02.14
+- 9차: 2019.03.20
 
 ## 활동 방안
 - 주기: 2주에 한번
@@ -73,3 +75,4 @@
 ## 참고 자료
 1. [Github Fork 와 Pull Request를 이용하여 Open Source에 참여하기](https://github.com/Devfarm-study/Java-in-action-1.8/wiki/Github-Fork-%EC%99%80-Pull-Request%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-Open-Source%EC%97%90-%EC%B0%B8%EC%97%AC%ED%95%98%EA%B8%B0)
 2. [Final, Static 키워드](https://docs.google.com/presentation/d/e/2PACX-1vREuuZSvElfvk6dMlmqnai7rwHNY2uPbYCDAwC6lNTcxlusYYBVH-NwDB5B0eueCgMzfNnP4ZB7BxgX/pub?start=false&loop=false&delayms=3000)
+3. [Git 사용법](https://docs.google.com/presentation/d/e/2PACX-1vR7L3SLJI7xG4nLS1T57EL7W0ooomyvBNMkW3LFbtfQOe3DZT84I57p73KOxzH3dSuSQzittVVA5Yv-/pub?start=false&loop=false&delayms=3000)
